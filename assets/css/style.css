@@ -11,7 +11,7 @@ body {
 /* Header Style Start */
 header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
@@ -44,10 +44,13 @@ header a {
 }
 /* Header Style End */
 
+/* <p> Style Start */
 p {
     font-size: 16px;
 }
+/* <p> Style End */
 
+/* Hero Style Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,6 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Style End */
 
 .float-left {
     float: left;
@@ -132,7 +136,9 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/* Content Style Start */
+
+.content div{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -141,51 +147,18 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.content img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.content h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 36px;  
 }
+/* Content Style End */
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* Footer Style Start */
 footer {
     padding: 30px;
     clear: both;
@@ -196,3 +169,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* Footer Style End */
