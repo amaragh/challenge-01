@@ -25,6 +25,8 @@ The following general updates were made to the CSS:
 
 The Horiseon webpage was rendered continously throughout this process as updates were made to ensure that the code refactoring did not have any unwanted effects on the webpage.
 
+The deployed application can be found [here](https://amaragh.github.io/refactor-horiseon/).
+
 The following images comprise the full Horiseon webage, which remained unchanged:
 
 ![Top third section of the website.](./assets/images/horiseon-1.png)
