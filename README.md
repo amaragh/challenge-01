@@ -4,7 +4,7 @@
 
 Code refactoring is integral to the coding process as it ensures code is written clearly and concisely. This allows the code to be accessible, avoids redundancy and lends itself to easier modification in the future.  
 
-The Horiseon website, although functional, was not written with semantic HTML and had several redundancies within the CSS. I refactored the code within the HTML CSS files to make it cleaner and more concise.
+The Horiseon website, although functional, was not written with semantic HTML and had several redundancies within the CSS. I refactored the code within the HTML and CSS files to make it cleaner and more concise.
 
 ## Installation
 
